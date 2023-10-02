@@ -28,7 +28,7 @@ To run the Employee Management System on your local machine, follow these steps:
 1. **Clone the Repository**: 
 
    ```bash
-   git clone https://github.com/yourusername/employee-management-system.git
+   git clone https://github.com/efeturkemir/employee-management-system.git
    ```
 
 2. **Open in NetBeans**:
