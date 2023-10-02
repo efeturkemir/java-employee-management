@@ -2,6 +2,8 @@
 
 The Employee Management System is a Java application developed using NetBeans that allows users to manage employee records. It connects to an SQL database, enabling users to perform basic CRUD (Create, Read, Update, Delete) operations on employee information. This README provides an overview of the system's functionality, how to set it up, and how to use it.
 
+![Java App Screenshot](screenshot-1.png)
+
 ## Table of Contents
 
 - [Features](#features)
